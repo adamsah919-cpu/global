@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Dec 2025 18:48:16 at https://sigmausdts.github.io/Globe-Express/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sigmausdts.github.io/Globe-Express/ -O1 "C:\My Web Sites\Global Express" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:49:16	Error: 	"Not Found" (404) at link https://sigmausdts.github.io/Globe-Express/OneSignalSDKUpdaterWorker.js (from https://sigmausdts.github.io/Globe-Express/)
+18:49:16	Error: 	"Not Found" (404) at link https://sigmausdts.github.io/Globe-Express/OneSignalSDKWorker.js (from https://sigmausdts.github.io/Globe-Express/)
+18:49:16	Warning: 	Retry after error -4 (Connect Error) at link https://usaexpressblogs.com/wp-content/uploads/2025/04/WHAT-CAUSED-INSTAGRAM-TO-END-THE-FOLLOWING-OF-HASHTAGS.jpg (from https://sigmausdts.github.io/Globe-Express/)
+18:49:17	Error: 	"Not Found" (404) at link https://sigmausdts.github.io/Globe-Express/t (from https://usaexpressblogs.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 72 links scanned, 67 files written (5722817 bytes overall) [4708572 bytes received at 77189 bytes/sec], 1473771 bytes transferred using HTTP compression in 25 files, ratio 26%, 4.4 requests per connection
+(3 errors, 1 warnings, 0 messages)
